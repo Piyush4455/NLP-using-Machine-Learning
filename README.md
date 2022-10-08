@@ -5,7 +5,7 @@ A sentiment analysis job about the problems of each major U.S. airline. This is 
 Here I have used 3 different classifiers i.e Logistic Regression, Multinomial Naive Bayes and Decison Tree classifier and we got the accuracy's as follows :
 Logistic Regression : 78.142 %
 Multinomial Naive Bayes : 75.751 %
-Decison Tree classifier : 69.672 %
+Decision Tree classifier : 69.672 %
 
 So we have finalized Logostic Regression for this use case...
 
